@@ -1,24 +1,24 @@
 ## Variable Declaration
-** What is the difference between * *  var, * *let, and * * const?
-Write a short code snippet to demonstrate the difference in scoping between var and let.
-you can you any variable or any from inventory
+**What is the difference between** __var__, __let__, and __const__?
+Write a short code snippet to demonstrate the difference in scoping between var and let.<br>
+You can use any variables or any from inventory :smiley_cat:
 
 ### For Scope copy templates below:
 
 
-// Block Scope
-{
-   
-   console.log()
-}
-   console.log()
+// Block Scope<br>
+{<br>
+   <br>
+   console.log()<br>
+}<br>
+   console.log()<br>
 
 
 
-// Function Scope
-function my_stock(){
+// Function Scope<br>
+function my_stock(){<br>
 
-  console.log()
-}
+  console.log()<br>
+}<br>
 
 console.log()
